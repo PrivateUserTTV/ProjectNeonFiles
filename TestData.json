@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "version": "1.8.1",
+  "uptime": 4029.2778132,
+  "memoryUsage": {
+    "rss": 71557120,
+    "heapTotal": 43532288,
+    "heapUsed": 40179872,
+    "external": 23236801,
+    "arrayBuffers": 18475814
+  },
+  "nodeVersion": "v20.11.1",
+  "platform": "win32",
+  "arch": "x64",
+  "cpuUsage": {
+    "user": 453000,
+    "system": 171000
+  }
+}
